@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "E:\\ASworkspace\\Teaching\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_app_icon.png.flat",
+        "source": "E:\\ASworkspace\\Teaching\\src\\main\\res\\drawable-xxxhdpi\\app_icon.png"
+    },
+    {
+        "merged": "E:\\ASworkspace\\Teaching\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_app_icon.png.flat",
+        "source": "E:\\ASworkspace\\Teaching\\src\\main\\res\\drawable-hdpi\\app_icon.png"
+    },
+    {
+        "merged": "E:\\ASworkspace\\Teaching\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_icon.png.flat",
+        "source": "E:\\ASworkspace\\Teaching\\src\\main\\res\\drawable-mdpi\\app_icon.png"
+    },
+    {
+        "merged": "E:\\ASworkspace\\Teaching\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_app_icon.png.flat",
+        "source": "E:\\ASworkspace\\Teaching\\src\\main\\res\\drawable-xhdpi\\app_icon.png"
+    },
+    {
+        "merged": "E:\\ASworkspace\\Teaching\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_app_icon.png.flat",
+        "source": "E:\\ASworkspace\\Teaching\\src\\main\\res\\drawable-ldpi\\app_icon.png"
+    },
+    {
+        "merged": "E:\\ASworkspace\\Teaching\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_app_icon.png.flat",
+        "source": "E:\\ASworkspace\\Teaching\\src\\main\\res\\drawable-xxhdpi\\app_icon.png"
+    }
+]
